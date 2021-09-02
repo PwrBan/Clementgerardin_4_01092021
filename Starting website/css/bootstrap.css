@@ -15,6 +15,14 @@ html {
 body {
     margin: 0
 }
+.text
+{
+    font-size: large;
+}
+.citation
+{
+    font-style: italic;
+}
 
 article,
 aside,
