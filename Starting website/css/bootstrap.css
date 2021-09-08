@@ -1443,7 +1443,8 @@ img {
 .img-responsive,
 .thumbnail a>img,
 .thumbnail>img {
-    height: auto
+    height: auto;
+    max-width: 100%;
 }
 
 .img-rounded {

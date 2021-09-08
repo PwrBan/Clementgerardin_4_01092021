@@ -703,6 +703,8 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    display: flex;
+    justify-content: space-between;
 }
 
 h2 {
@@ -748,7 +750,13 @@ h4 {
     margin-bottom: 44px;
     margin-top: 50px;
 }
-
+.footer__link
+{
+    width: auto;
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
 .avatar {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
