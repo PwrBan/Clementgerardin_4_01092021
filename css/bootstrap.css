@@ -7802,7 +7802,8 @@ button.close {
 .center-block {
     display: block;
     margin-right: auto;
-    margin-left: auto
+    margin-left: auto;
+    clip-path: circle(49%);
 }
 
 .pull-right {
